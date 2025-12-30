@@ -1,7 +1,6 @@
 <div style="text-align: center;">
     <h1>JNets</h1>
 A lightweight Java neural network library
-<hr>
     
 </div>
 
