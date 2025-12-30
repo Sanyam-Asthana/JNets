@@ -99,4 +99,3 @@ The `Functions.java` class provides some general functions:
 - Implementing a **Neuron Layer**
 - Implementing **Backpropagation**
 - Implementing an optimized **Matrix multiplication** using BLAS or the Vector API
-- 
