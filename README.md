@@ -1,12 +1,8 @@
-<div style="text-align: center;">
-    <h1>JNets</h1>
-A lightweight Java neural network library
-<hr>
-    
-</div>
+<center>
+<h1>JNets</h1>
+<b>JNets</b> is a lightweight and high-performant library which helps implement Neural Networks in Java.
+</center>
 
-# Introduction
-**JNets** is a lightweight and high-performant library which helps implement Neural Networks in Java.
 
 # Quick Start
 Following is a simple example which initializes a Neuron objects, sets its weights and calculates the dot product and activation output by passing a fixed array of input values.
@@ -103,4 +99,3 @@ The `Functions.java` class provides some general functions:
 - Implementing a **Neuron Layer**
 - Implementing **Backpropagation**
 - Implementing an optimized **Matrix multiplication** using BLAS or the Vector API
-- 
